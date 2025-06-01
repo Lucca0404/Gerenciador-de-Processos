@@ -1,6 +1,5 @@
 from Processo import Processo
 from time import sleep
-import threading
 
 class Processador():
 
@@ -19,7 +18,7 @@ class Processador():
                 self.executando = processo
                 self.pronto.remove(processo)
             else:
-                self.pronto.append(self.executando)
+                self.inserir(self.executando)
                 self.executando = processo
                 self.pronto.remove(processo)
         print(f'O processo {processo.nome} está no estado executando')
