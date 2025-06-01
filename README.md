@@ -1,7 +1,6 @@
 # Gerenciador-de-Processos
 
 ## 🏁 Simulador de Escalonamento de Processos
-<br>>
 Bem-vindo(a) ao repositório do Simulador de Escalonamento de Processos, desenvolvido para a disciplina de Sistemas Operacionais do professor Fábio. Aqui, nossos três competidores internos (o Sorteador, o Movedor e o Contador) disputam corridas sob diferentes algoritmos de escalonamento. 🚀
 
 **Observação importante: A única utilização de IA neste projeto foi a escrita criativa deste README.**
