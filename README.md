@@ -25,12 +25,19 @@ No fim, temos uma “corrida” que mostra a ordem de chegada dos processos.
 ## 📂 Estrutura do Repositório
 
 .
+<br>
 ├── Processador.py
+<br>
 ├── Processo.py
+<br>
 ├── processos.py
+<br>
 ├── algoritmos_escalonamento.py
+<br>
 ├── main.py
+<br>
 ├── README.md
+<br>
 └── LICENSE (se aplicável)
 
 ### Processador.py
