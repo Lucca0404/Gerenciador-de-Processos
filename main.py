@@ -252,11 +252,15 @@ def main():
                         sleep(3)
                         os.system('cls')
                         continue
+            case 3:
+                break
             case _:
                 print('Opção inválida, tente 1 ou 2\n')
                 sleep(3)
                 os.system('cls')
                 continue
+    os.system('cls')
+    print('Obrigado por jogar!')
 
 if __name__ == '__main__':
     main()
